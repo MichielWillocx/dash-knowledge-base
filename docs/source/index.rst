@@ -17,3 +17,15 @@ Federated Learning
     topics/methodology
     topics/embedded-devices
     topics/applications
+
+Data Privacy
+==============
+.. toctree::
+    :maxdepth: 2
+    :caption: Data Privacy
+    :hidden:
+    
+    privacy-topics/introduction
+    privacy-topics/differential-privacy
+    privacy-topics/dataset-anonymization
+    privacy-topics/emerging-challenges
